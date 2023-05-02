@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "puppeteer": "^19.11.1"
+  },
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

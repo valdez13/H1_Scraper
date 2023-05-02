@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Blind SSRF to internal services in matrix preview_link API",
+    "link": "https://hackerone.com/reports/1960765"
+  },
+  {
+    "title": "ReDoS( Ruby, Time)",
+    "link": "https://hackerone.com/reports/1929567"
+  },
+  {
+    "title": "RichText parser vulnerability in scheduled posts allows XSS",
+    "link": "https://hackerone.com/reports/1930763"
+  },
+  {
+    "title": "Information disclosure by sending a GIF",
+    "link": "https://hackerone.com/reports/1801427"
+  },
+  {
+    "title": "Credential leak on GitHub: https://github.com/█/█/ (Peoplesoft CRM)",
+    "link": "https://hackerone.com/reports/1957430"
+  },
+  {
+    "title": "Delete any user's added Email,Telephone,Fax,Address,Skype via csrf in (https://academy.acronis.com/)",
+    "link": "https://hackerone.com/reports/709537"
+  },
+  {
+    "title": "Authentication bypass on gist.github.com through SSH Certificates",
+    "link": "https://hackerone.com/reports/1901040"
+  },
+  {
+    "title": "The endpoint '/test/webhooks' is vulnerable to DNS Rebinding",
+    "link": "https://hackerone.com/reports/1716069"
+  },
+  {
+    "title": "Desktop client does not verify received singed certificate in end to end encryption",
+    "link": "https://hackerone.com/reports/1679267"
+  },
+  {
+    "title": "S3 Bucket Takeover \"brave-browser-rpm-staging-release-test\"",
+    "link": "https://hackerone.com/reports/1835133"
+  },
+  {
+    "title": "SQL Injection at https://████ via ███ parameter",
+    "link": "https://hackerone.com/reports/1935151"
+  },
+  {
+    "title": "JWT audience claim is not verified",
+    "link": "https://hackerone.com/reports/1889161"
+  },
+  {
+    "title": "Name collision of shared folders",
+    "link": "https://hackerone.com/reports/1697281"
+  },
+  {
+    "title": "Reference fetch can saturate the server bandwidth for 10 seconds",
+    "link": "https://hackerone.com/reports/1806223"
+  },
+  {
+    "title": "reflected XSS in [www.equifax.com]",
+    "link": "https://hackerone.com/reports/1818163"
+  },
+  {
+    "title": "File Read Vulnerability allows Attackers to Compromise S3 buckets using Prow",
+    "link": "https://hackerone.com/reports/1485500"
+  },
+  {
+    "title": "Can delete other user's post and company page post",
+    "link": "https://hackerone.com/reports/337755"
+  },
+  {
+    "title": "S3 Bucket Takeover : brave-apt",
+    "link": "https://hackerone.com/reports/1791558"
+  },
+  {
+    "title": "adding h1_analyst_* to username for normal users",
+    "link": "https://hackerone.com/reports/1770797"
+  },
+  {
+    "title": "The `io.kubernetes.client.util.generic.dynamic.Dynamics` contains a code execution vulnerability due to SnakeYAML",
+    "link": "https://hackerone.com/reports/1807214"
+  },
+  {
+    "title": "CVE-2023-28755: ReDoS vulnerability in URI",
+    "link": "https://hackerone.com/reports/1944515"
+  },
+  {
+    "title": "Missing brute force protection for passwords of password protected share links",
+    "link": "https://hackerone.com/reports/1894653"
+  },
+  {
+    "title": "Unrestricted File Upload on https://partner.tiktokshop.com/wsos_v2/oec_partner/upload",
+    "link": "https://hackerone.com/reports/1890284"
+  },
+  {
+    "title": "HTML INJECTION on coins.state.gov",
+    "link": "https://hackerone.com/reports/1844830"
+  },
+  {
+    "title": "[CVE-2022-44268] Arbitrary Remote Leak via ImageMagick",
+    "link": "https://hackerone.com/reports/1858574"
+  }
+]
